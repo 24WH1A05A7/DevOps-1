@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Maya",
+    "email": "maya12@gmail.com",
+    "phone": "9807890821",
+    "event": "Pottery"
+  },
+  {
+    "name": "Veena",
+    "email": "veena987@gmail.com",
+    "phone": "9090890654",
+    "event": "Pottery"
+  },
+  {
+    "name": "Priya",
+    "email": "pri123@gmail.com",
+    "phone": "1234567890",
+    "event": "Pottery"
+  },
+  {
+    "name": "Priya",
+    "email": "pri12@gmail.com",
+    "phone": "9632587410",
+    "event": "Singing"
+  }
+]
